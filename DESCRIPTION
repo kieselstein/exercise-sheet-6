@@ -4,9 +4,10 @@ Title: Tools for Decriptive Statistics
 Version: 0.1.1
 Authors@R: c(
     person("Akram", "Helal", email = "a.helal@campus.lmu.de", role = c("aut", "cre")),
-    person("Seyed", "Ramtin Hosseini", emai = "xxx", role = c("aut", "cre"))
+    person("Seyed", "Ramtin Hosseini", emai = "xxx", role = "aut")
     )
-    Description: A collection of simple functions to automatically calculate and enrich mean, standard deviation and percentiles in a data set.
+Description: A collection of simple functions to automatically calculate and enrich mean, standard deviation and percentiles in a data set.
 License: CC0
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.3.2
