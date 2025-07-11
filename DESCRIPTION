@@ -1,16 +1,12 @@
 Package: exerciseSheet6
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
+Title: Tools for Decriptive Statistics
+Version: 0.1.1
 Authors@R: c(
-    person(
-      "Jane", "Doe",
-      email = "jane@example.com",
-      role = c("aut", "cre")
+    person("Akram", "Helal", email = "a.helal@campus.lmu.de", role = c("aut", "cre")),
+    person("Seyed", "Ramtin Hosseini", emai = "xxx", role = c("aut", "cre"))
     )
-  )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
-License: What license is it under?
+    Description: A collection of simple functions to automatically calculate and enrich mean, standard deviation and percentiles in a data set.
+License: CC0
 Encoding: UTF-8
 LazyData: true
